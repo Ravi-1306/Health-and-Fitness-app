@@ -1,0 +1,15 @@
+{
+    "graalvm.installations": [
+        "c:\\Users\\patel\\OneDrive\\Desktop\\itis3155\\graalvm-jdk-25+37.1\\graalvm-jdk-25.0.1+8.1"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-25",
+            "path": "c:\\Users\\patel\\OneDrive\\Desktop\\itis3155\\graalvm-jdk-25+37.1\\graalvm-jdk-25.0.1+8.1"
+        }
+    ],
+    "graalvm.home": "c:\\Users\\patel\\OneDrive\\Desktop\\itis3155\\graalvm-jdk-25+37.1\\graalvm-jdk-25.0.1+8.1",
+    "terminal.integrated.env.windows": {
+        "GRAALVM_HOME": "c:\\Users\\patel\\OneDrive\\Desktop\\itis3155\\graalvm-jdk-25+37.1\\graalvm-jdk-25.0.1+8.1"
+    }
+}
